@@ -7,10 +7,10 @@ All credits go to @troyhunt (https://haveibeenpwned.com) for providing the API f
 
 Usage:
 
-copy to local computer
-make file executable (chmod +x pwned)
-run './pwned'
-enter password when prompted
+* copy to local computer
+* make file executable (chmod +x pwned)
+* run './pwned'
+* enter password when prompted
 
 This shell script comes bare bones.
 
