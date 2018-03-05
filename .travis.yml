@@ -1,2 +1,5 @@
 language: cpp
+os:
+  - linux
+  - osx
 script: ./test.sh

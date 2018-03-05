@@ -14,7 +14,6 @@ Usage:
 
 This shell script comes bare bones.
 
-* only tested on MacOS
 * assumes a working internet connection
 * does not handle any error cases
 
