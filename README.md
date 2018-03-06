@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/BY-jk/pwned.svg?branch=master)](https://travis-ci.org/BY-jk/pwned)
+
 # pwned
 A simple bash script to securely check for pwned passwords using the pwnedpasswords.com range API.
 
